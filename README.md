@@ -1,11 +1,12 @@
-# corona-screen
-Responsive Covid-19-Dashboard for Data and Charts
+# Covid-19 Dashboard
 
-- https://stewahn.github.io/corona-screen/
+# Link: https://stefanstoehr.github.io/covid-dashboard-1/
 
-- Build on Bootstrap.js and Chart.js
+### Screenshot:
+![Screenshot des Web-Dashboards](https://raw.githubusercontent.com/stefanstoehr/covid-dashboard-1/main/screenshot.jpg)
 
-- OpenSource and free
+### Description:
+- Build on Bootstrap.js
+- and Chart.js
 
-- Optimized for Covid-19 Code, Design and Content
-
+:coffee::coffee::coffee: Stefan
